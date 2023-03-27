@@ -1,4 +1,41 @@
-### Hi there 👋
+### Trout Stream
+Software Engineer, Code Focused, Proficient in blank stares. Remarkably writes fishy code.
+
+<!--
+@ Tools
+Sheilds: https://shields.io/
+Simple Icons: https://simpleicons.org
+Color Codes: https://htmlcolorcodes.com/
+-->
+[![Ansible](https://img.shields.io/badge/-Ansible-FFFFFF?logo=ansible&logoColor=EE0000&style=flat-square)](https://docs.ansible.com/)
+[![Nginx](https://img.shields.io/badge/-nginx-FFFFFF?logo=nginx&logoColor=009639&style=flat-square)](https://nodejs.org/en/docs)
+[![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?logo=mysql&logoColor=4479A1&style=flat-square)](https://dev.mysql.com/doc/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-FFFFFF?logo=mariadb&logoColor=003545&style=flat-square)](https://mariadb.org/documentation/)
+[![NodeJS](https://img.shields.io/badge/-Node.js-FFFFFF?logo=node.js&logoColor=339933&style=flat-square)](https://nodejs.org/en/docs)
+[![Next.JS](https://img.shields.io/badge/-Next.js-FFFFFF?logo=next.js&logoColor=black&style=flat-square)](https://nextjs.org/docs)
+[![React](https://img.shields.io/badge/-React-FFFFFF?logo=react&logoColor=61DAFB&style=flat-square)](https://react.dev/reference/react)
+[![ApolloGraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-FFFFFF?logo=apollographql&logoColor=311C87&style=flat-square)](https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-FFFFFF?logo=graphql&logoColor=E10098&style=flat-square)](https://graphql.org/learn/)
+[![WordPress](https://img.shields.io/badge/-WordPress-FFFFFF?logo=wordpress&logoColor=21759B&style=flat-square)](https://developers.wpengine.com/)
+[![Php](https://img.shields.io/badge/-Php-FFFFFF?logo=php&logoColor=777BB4&style=flat-square)](https://php.net)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?logo=typescript&logoColor=3178C6&style=flat-square)](https://www.typescriptlang.org/)
+[![Sass](https://img.shields.io/badge/-Sass-FFFFFF?logo=sass&logoColor=CC6699&style=flat-square)](https://sass-lang.com/documentation/)
+[![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-FFFFFF?logo=tailwind-css&logoColor=06B6D4&style=flat-square)](https://v2.tailwindcss.com/docs)
+
+[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=FFFFFF&style=flat-square)](https://docs.ansible.com/)
+[![Nginx](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=FFFFFF&style=flat-square)](https://nodejs.org/en/docs)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFFFFF&style=flat-square)](https://dev.mysql.com/doc/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=FFFFFF&style=flat-square)](https://mariadb.org/documentation/)
+[![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/en/docs)
+[![Next.JS](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/docs)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://react.dev/reference/react)
+[![ApolloGraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=FFFFFF&style=flat-square)](https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=FFFFFF&style=flat-square)](https://graphql.org/learn/)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=FFFFFF&style=flat-square)](https://developers.wpengine.com/)
+[![Php](https://img.shields.io/badge/-Php-777BB4?logo=php&logoColor=FFFFFF&style=flat-square)](https://php.net)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)](https://sass-lang.com/documentation/)
+[![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)](https://v2.tailwindcss.com/docs)
 
 <!--
 **troutstream/troutstream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
