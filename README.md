@@ -1,3 +1,8 @@
+<~-- 
+Readme example:
+https://github.com/othneildrew/Best-README-Template
+-->
+
 ### Trout Stream
 Software Engineer, Code Focused, Proficient in blank stares. Remarkably writes fishy code.
 
