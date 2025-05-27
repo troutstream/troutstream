@@ -4,7 +4,7 @@ https://github.com/othneildrew/Best-README-Template
 -->
 
 ### Trout Stream
-Software Engineer, Code Focused, Proficient in blank stares. Remarkably writes fishy code.
+IT Department, Senior Engineer, Educator. Back to the basics. Remarkably writes fishy code.
 
 <!--
 @ Tools
